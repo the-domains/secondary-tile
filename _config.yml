@@ -1,0 +1,14 @@
+layout_spectrum: 0.7977610165253282
+typography_spectrum: 0.7025505553465337
+color:
+  brandStrength: 0.10881515825167298
+  lightness: 0.045248358277603984
+  saturation: 0.748794331913814
+  rhythmicContrast: 0.503160421969369
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Secondary Tile
